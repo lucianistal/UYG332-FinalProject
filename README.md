@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-This individual project shows the application of fundamental image processing techniques using Python and OpenCV. The dataset includes six images, and each task showcases a different operation, such as intensity analysis, image transformations, noise filtering, unsharp masking, and enhancement.
+This project shows the application of fundamental image processing techniques using Python and OpenCV. The dataset includes six images, and each task showcases a different operation, such as intensity analysis, image transformations, noise filtering, unsharp masking, and enhancement.
 
 ## Contents
 
